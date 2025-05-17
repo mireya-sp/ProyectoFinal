@@ -1,0 +1,92 @@
+[
+    {
+      "title": "Montgo",
+      "coordinates": [
+        0.12920471807106582,
+        38.80262226521063
+      ],
+      "question": "Cuanto mide el montgo?",
+      "answers": [
+        "200m",
+        "1098m",
+        "753m",
+        "400m"
+      ],
+      "locked": true
+    },
+    {
+      "title": "Pego",
+      "coordinates": [
+        -0.1180221272255067,
+        38.843598212583686
+      ],
+      "question": "",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "locked": true
+    },
+    {
+      "title": "Gandia",
+      "coordinates": [
+        -0.18257853083810258,
+        38.96773470972104
+      ],
+      "question": "",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "locked": true
+    },
+    {
+      "title": "Oliva",
+      "coordinates": [
+        -0.12041023613236972,
+        38.920361929935495
+      ],
+      "question": "",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "locked": true
+    },
+    {
+      "title": "Moraira",
+      "coordinates": [
+        0.13411363977354443,
+        38.68777461708811
+      ],
+      "question": "",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "locked": true
+    },
+    {
+      "title": "IES La Mar",
+      "coordinates": [
+        0.17807579825311598,
+        38.788810722366975
+      ],
+      "question": "aaaaaaaaaaaaaaa",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "locked": true
+    }
+  ]
