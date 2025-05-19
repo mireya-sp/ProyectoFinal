@@ -10,7 +10,22 @@
 <body>
   <header class="app-header">
     <h1>Explora la Comarca</h1>
+    <div class="controls">
+      <select id="city-select">
+        <label style="font-size: 0.9em;">      
+        <option disabled selected value="">Selecciona una ciudad</option>
+        <option value="javea">Jávea</option>
+        <option value="denia">Dénia</option>
+        <option value="benitachell">Benitachell</option>
+      </select>
+      <span id="counter">0/0</span>
+    </div>
   </header>
+
+  <label id="bypass-container">
+    <input type="checkbox" id="bypass-geo" />
+    Modo prueba (ignorar distancia)
+  </label>    
 
   <main class="main-content">
     <section id="map" class="map-container"></section>
