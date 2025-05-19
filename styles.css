@@ -111,15 +111,17 @@ body {
     font-weight: bold;
   }
 
+  @media (max-width: 600px) {
   #bypass-container {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    background: white;
-    padding: 6px 10px;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-    z-index: 1001;
-    font-size: 0.9em;
-    user-select: none;
+    position: static;
+    margin: 10px auto;
+    box-shadow: none;
+    display: block;
+    text-align: center;
   }
+
+  .app-header {
+    padding-top: 50px; 
+  }
+}
+
