@@ -89,4 +89,37 @@ body {
       padding: 6px 12px;
     }
   }
+
+  .controls {
+    margin-top: 10px;
+    text-align: center;
+    pointer-events: auto;
+  }
   
+  #city-select {
+    padding: 6px 12px;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 1em;
+  }
+  
+  #counter {
+    background: #ffffff;
+    padding: 6px 12px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    font-weight: bold;
+  }
+
+  #bypass-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: white;
+    padding: 6px 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    z-index: 1001;
+    font-size: 0.9em;
+    user-select: none;
+  }
